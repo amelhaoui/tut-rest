@@ -21,9 +21,6 @@
 
 	<modules>
 		<module>nonrest</module>
-		<module>rest</module>
-		<module>evolution</module>
-		<module>links</module>
 	</modules>
 
 	<dependencies>
@@ -33,5 +30,5 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	
+
 </project>
